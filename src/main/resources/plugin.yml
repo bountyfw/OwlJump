@@ -1,0 +1,7 @@
+name: OwlJump
+version: '0.0.1'
+main: fr.cylc.owlJump.Main
+api-version: '1.21'
+prefix: OwlJump
+authors: [ BountyFW, RosenGlaë ]
+website: https://cylc.fr
